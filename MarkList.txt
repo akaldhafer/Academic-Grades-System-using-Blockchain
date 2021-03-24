@@ -1,0 +1,70 @@
+{
+  "hash": "e139ad5aa5c1151ba8f241621928cca5a69dbbf9786403e81bd1a63ab5a41e",
+  "previousHash": "0",
+  "Test": 33,
+  "Lab": 33,
+  "FinalM": 66,
+  "Course": "cpp",
+  "timestamp_datestamp": "26/10/2020 _15.16.33",
+  "Dsignature": "yf661rrIPZtII4m34EWVd5aXCgIMDw5szH5P7402idzg0zZi+f+05kVYBJ1JU9BdFuAQEHwiXP/FWVJXZcBAB/qP0pUeUOB07AXuxsVW14EoIgLSilBKSGHJ0trz1m3gUMEqDvEXFyfoxmKir289snqJ7PePIlll6Ctzud3FHaI\u003d"
+}
+{
+  "hash": "f11defbe9ac7bdbe0f9d927eb12d61e4843a39b1bb8a10416048e27cfbae6",
+  "previousHash": "e139ad5aa5c1151ba8f241621928cca5a69dbbf9786403e81bd1a63ab5a41e",
+  "Test": 56,
+  "Lab": 56,
+  "FinalM": 100,
+  "Course": "bb",
+  "timestamp_datestamp": "26/10/2020 _15.18.09",
+  "Dsignature": "k99J9vtwK+/xT0j8vIS6qanBaD6McGqGJjQ1agvgW5GmB2bFCuHUU+5i8elmLKAHKykTkrFSxWq0Cv1anRi1hnf2oe4todcOS12H3ckjCaY1hgRsM66xeQLeEJ7Dyw8nwTXo0wsGMSqfwRvhIuGbS2aeoB+JInWtcWXYUY72n+E\u003d"
+}
+{
+  "hash": "a4a4b7c3cd5313b1ce0fd307fbfb673e0831c7152cff2b165b5968e4899fe7c",
+  "previousHash": "f11defbe9ac7bdbe0f9d927eb12d61e4843a39b1bb8a10416048e27cfbae6",
+  "Test": 34,
+  "Lab": 34,
+  "FinalM": 68,
+  "Course": "python",
+  "timestamp_datestamp": "26/10/2020 _15.29.03",
+  "Dsignature": "FG+w+aNv8ruRpBZWx+TUL4J4dNMTTyoOPCtR/mZCrOm80L1gEc4NDsltQXLsjtlZXZ89544ZDdHS9pzRHSCCaJ9wN8BjU5Z9v+ACjJxZThzc1dl5sJmUINbpLfp8DdvOI0CFRdDsFT6BV0+N+Ykc2CQu1baFUVU7ZqqW+IkPt7Y\u003d"
+}
+{
+  "hash": "27bffc7a9f90ead41e677a91bf18baefb9243131d0ca13cf32b0744af1eb8",
+  "previousHash": "a4a4b7c3cd5313b1ce0fd307fbfb673e0831c7152cff2b165b5968e4899fe7c",
+  "Test": 30,
+  "Lab": 30,
+  "FinalM": 60,
+  "Course": "c",
+  "timestamp_datestamp": "26/10/2020 _15.33.31",
+  "Dsignature": "H6QhCJoS3Ets9bVbkKVeaKDpoMnXs+SZAHfvbyHc0SyB0Xn1AK1PRAScTG/KQpNPyIKa/J8uTYZHPsWeAD/n2kcSq223fH9VrRtOpsvyPVVT6sbLgxcDa0ja6kUb3eHnWTle/WllHTymPOlkG3jFfUiMZduOCIhwnOLERrYeTjE\u003d"
+}
+{
+  "hash": "d3daa737f10e7e08250f7a82e495251cef9caf194e9ee77b144eef35ae758d2",
+  "previousHash": "27bffc7a9f90ead41e677a91bf18baefb9243131d0ca13cf32b0744af1eb8",
+  "Test": 23,
+  "Lab": 123,
+  "FinalM": 30,
+  "Course": "rr",
+  "timestamp_datestamp": "26/10/2020 _15.40.20",
+  "Dsignature": "cdKEoeA/evL+wzYwEAroGESLf8wR9AMAkaH7ln4WG713TpUBy52Tx9IkGqes6LGXzx6i5IgQk3WvGWg7zY6so7675LJf093E2zK5u5/QT+Pv2zL/F4gmSNT8pXmLMNJUWkJiRA6RzJLX4QHxfcMP52AE3nrAkoF+ehHCZevBp0g\u003d"
+}
+{
+  "hash": "303abadc197a21919e9c6aaffe4ec754083f58116fd20fa53ab6de015547a5",
+  "previousHash": "d3daa737f10e7e08250f7a82e495251cef9caf194e9ee77b144eef35ae758d2",
+  "Test": 50,
+  "Lab": 30,
+  "FinalM": 80,
+  "Course": "BlockChain",
+  "timestamp_datestamp": "26/10/2020 _21.30.46",
+  "Dsignature": "WusXPDzbKH/ar//LZElg+w5M35Y7zoCyjMaIh8YrcJeqdyiNt4HMRhHtXWYAzkMJxBH5eHiYfICW3I8vskzA9EWhqOfqkpJ73kJaYXm4RGnOwfflfWkgHBlrfjTob1+zekgYpOuN8chgG/PTIbb9Lwquob0d5BY8+FQ3iodj/F4\u003d"
+}
+{
+  "hash": "9e5a7b2543b631c9d3ac57dc8ad195c26bdb913fd26b46b5f26976f6f777f1c5",
+  "previousHash": "303abadc197a21919e9c6aaffe4ec754083f58116fd20fa53ab6de015547a5",
+  "Test": 23,
+  "Lab": 23,
+  "FinalM": 80,
+  "Course": "c",
+  "timestamp_datestamp": "14/11/2020 _04.30.22",
+  "Dsignature": "JKhGXUB2rMHaPXhUks6tmJIEhjimWb2W2dEBNg37GoG+XftZrGsVNhknjzgHvIKU37FIXIKXZ9T+E/3mIPaIlfffidpaAz4AaoD6PYv/qN+hUn3gnTo4HrNc98sN1ZV5NqcgATxBMAgyEx7ClFnPRFLSf+vk4b6kKaLwt886trQ\u003d"
+}
